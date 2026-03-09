@@ -31,6 +31,12 @@ Bu proje, MongoDB atlas veya yerel MongoDB sunucusu kullanarak öğrencileri kay
 
 ---
 
+## 📁 Project Structure
+- `app.py`: Flask backend ve API uç noktaları.
+- `templates/index.html`: Ana web arayüzü.
+- `static/css/style.css`: Premium tasarım stilleri.
+- `main.py`: Orijinal CLI tabanlı uygulama.
+
 ## English
 
 This project provides a modern web interface for registering, searching, listing, and deleting students using MongoDB Atlas or a local MongoDB server.
@@ -58,7 +64,7 @@ This project provides a modern web interface for registering, searching, listing
 
 ---
 
-## 📁 Proje Yapısı / Project Structure
+## 📁 Project Structure
 
 - `app.py`: Flask backend & API endpoints.
 - `templates/index.html`: Main web interface.
